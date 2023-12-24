@@ -1,4 +1,4 @@
-## Olá, Seja bem-vinde!😁
+## Olá, seja Bem-Vinde!😁
 
 <div align="left">
     <a href="https://github.com/jorgeramos-dev">
