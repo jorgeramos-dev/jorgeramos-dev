@@ -2,7 +2,7 @@
 
 - :man_technologist: Software Developer na <a href="https://site.conectala.com.br/" target="_blank">Conecta-lá</a>.    
 - :books: Atualmente aprofundando-se com microsserviços em PHP (Laravel).
-- :blue_book: <a href="https://jorge-ramos.github.io/" target="_blank">Aqui está meu portfólio</a>.
+- :blue_book: <a href="https://jorgeramos-dev.github.io" target="_blank">Aqui está meu portfólio</a>.
 
 <a href="https://www.linkedin.com/in/jorge-ramos777/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:dev-jorgeramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
