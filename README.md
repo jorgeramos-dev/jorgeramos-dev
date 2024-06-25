@@ -1,6 +1,6 @@
 ### Olá, me chamo Jorge Ramos! 👋
 
-- :man_technologist: Software Developer na <a href="https://site.conectala.com.br/" target="_blank">Conecta-lá</a>.    
+- :man_technologist: Senior Software Developer na <a href="https://www.somosmesha.com/" target="_blank">Mesha Tecnologia.</a>.    
 - :books: Atualmente aprofundando-se com microsserviços em PHP (Laravel).
 - :blue_book: <a href="https://jorgeramos-dev.github.io" target="_blank">Aqui está meu portfólio</a>.
 
