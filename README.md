@@ -1,7 +1,7 @@
 ### Olá, me chamo Jorge Ramos! 👋
 
 - :man_technologist: Senior Software Developer na <a href="https://www.ima.sc.gov.br/" target="_blank">IMA - Instituto do Meio Ambiente de Santa Catarina</a>.    
-- :books: Atualmente aprofundando-se com microsserviços em PHP (Laravel).
+- :books: Atualmente aprofundando-se em Engenharia de Software.
 - :blue_book: <a href="https://jorgeramos-dev.github.io" target="_blank">Aqui está meu portfólio</a>.
 
 <a href="https://www.linkedin.com/in/jorge-ramos777/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
