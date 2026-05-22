@@ -1,7 +1,6 @@
 ### Olá, me chamo Jorge Ramos! 👋
 
-- :man_technologist: Desenvolvedor Senior no <a href="https://www.ima.sc.gov.br/" target="_blank">IMA - Instituto do Meio Ambiente de Santa Catarina</a>.    
-- :books: Atualmente aprofundando-se com microsserviços em PHP (Laravel)
+- :man_technologist: Desenvolvedor Backend Senior III na <a href="https://uplexis.com.br/" target="_blank">UpLexis Tecnologia</a>.    
 - :blue_book: <a href="https://jorgeramos-dev.github.io" target="_blank">Aqui está meu portfólio</a>.
 
 <a href="https://www.linkedin.com/in/jorge-ramos777/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -14,4 +13,3 @@
   <img align="center" alt="docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
 </div>
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeramos-dev&layout=compact&langs_count=7&theme=dracula"/>
